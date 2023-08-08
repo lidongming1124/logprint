@@ -1,3 +1,3 @@
-module github.com/lidongmin g1124/logprint
+module github.com/lidongming1124/logprint
 
 go 1.20
